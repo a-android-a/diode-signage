@@ -1,10 +1,10 @@
-#Project [diode signage]
+# Project [diode signage]
 
-##description
+## description
 the main goal of this project is a minor software emulation of the diode panel. 
 How to work with the diode signage and converter class can be found in the class descriptions.
 
-##to install
+## to install
 git clone https://github.com/a-android-a/diode signage.git
 
 ## Usage
